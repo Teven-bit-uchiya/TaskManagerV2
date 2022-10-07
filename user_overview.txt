@@ -1,0 +1,10 @@
+Number of User: 1 
+Number of Tasks: 5 
+Total number of tasks assigned to : 2 
+Total number of tasks user has completed: 0 
+Total number of tasks user has not completed: 2 
+Total number of tasks user has not completed and is overdue: 0 
+Percentage of tasks assigned to user: 40.0% 
+Percentage of tasks assigned to user that are completed: 0.0% 
+Percentage of tasks assigned to user that are not completed: 100.0% 
+Percentage of tasks assigned to user that are not completed and are overdue: 0.0% 
